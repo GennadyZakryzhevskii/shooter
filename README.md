@@ -1,1 +1,2 @@
-# shooter
+install python
+install pygame
